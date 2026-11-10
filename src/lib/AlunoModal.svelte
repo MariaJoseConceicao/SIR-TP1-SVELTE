@@ -65,7 +65,7 @@
     <div class="mt-[22px] flex gap-2.5 max-[700px]:flex-col-reverse">
       <button
         type="submit"
-        class="min-h-[42px] flex-1 cursor-pointer rounded-[10px] bg-linear-to-br from-blue-600 to-blue-700 px-[18px] text-sm font-bold text-white shadow-[0_4px_12px_rgba(37,99,235,0.3)] transition hover:-translate-y-px hover:shadow-[0_6px_16px_rgba(37,99,235,0.4)]"
+        class="min-h-[42px] flex-1 cursor-pointer rounded-[10px] bg-gradient-to-br from-blue-600 to-blue-700 px-[18px] text-sm font-bold text-white shadow-[0_4px_12px_rgba(37,99,235,0.3)] transition hover:-translate-y-px hover:shadow-[0_6px_16px_rgba(37,99,235,0.4)]"
       >
         {id ? 'Guardar' : 'Criar Aluno'}
       </button>

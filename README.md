@@ -24,3 +24,7 @@ Depois abre o endereço que aparece no terminal (normalmente http://localhost:51
 - `src/App.svelte`: página principal e tabela de alunos
 - `src/lib/AlunoModal.svelte` e `CursoModal.svelte`: modais de criar/editar
 - `src/lib/api.js`: pedidos à API
+
+## Link Site Render
+
+- https://sir-tp1-svelte.onrender.com/
